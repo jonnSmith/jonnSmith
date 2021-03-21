@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jonnSmith
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning GraphQL, Google Vision, NestJS
+- ᴥ Hi, I’m @jonnSmith
+- ᴥ I’m interested in JS
+- ᴥ I’m currently learning GraphQL, Google Vision, NestJS
 
 <!---
 jonnSmith/jonnSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
