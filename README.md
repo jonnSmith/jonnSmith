@@ -10,6 +10,6 @@ I have also shared the sources for a few mobile applications, including a native
 
 But the key point is, that all mentioned personal projects are examples of my live code, which can tell a lot more about me as a software engineer + my expertise of used in that projects technologies, and show all that much clearer than any CV
 
-And here is some labels, like ever personal README here:
+And here is some labels, like in ever personal README:
 
 ![awsm](https://flat.badgen.net/badge/icon/Awesome?icon=awesome&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![git](https://flat.badgen.net/badge/icon/GitHub?icon=github&label&labelColor=blue&color=555555)
