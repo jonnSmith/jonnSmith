@@ -1,4 +1,4 @@
-| Months of coding save week of planing
+Months of coding save week of planing
 
 Hi, I'm Yevhen and this is my Github) 
 
@@ -9,3 +9,7 @@ Here, on my Github account, I have showcased several useful and interesting appl
 I have also shared the sources for a few mobile applications, including a native Android application with over 10,000 downloads on Google Play, although its server component has not been supported for some time. Another application, created with Ionic 3, includes two repos for the client and server. The server application instance was published and supported for some time on Heroku. Finally, I have an Expo (React Native) hybrid mobile application with IoT functionality, powered by Open AI API (ChatGPT) completions, which receives regular updates - it's CyberTarot repositary. All progress, changes, and plans for this application are managed on its personal Github Projects page, which is open for public viewing. My next plans for this personal project are focused on releasing it to the Google Play and App Store after resolving all issues in the QA column) 
 
 But the key point is, that all mentioned personal projects are examples of my live code, which can tell a lot more about me as a software engineer + my expertise of used in that projects technologies, and show all that much clearer than any CV
+
+And here is some labels, like ever README here:
+
+![awsm](https://flat.badgen.net/badge/icon/Awesome?icon=awesome&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![git](https://flat.badgen.net/badge/icon/GitHub?icon=github&label&labelColor=blue&color=555555)
