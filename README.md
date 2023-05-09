@@ -1,4 +1,4 @@
-Months of coding save week of planing
+> Months of coding save week of planing...
 
 Hi, I'm Yevhen and this is my Github) 
 
